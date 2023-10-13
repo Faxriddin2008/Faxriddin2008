@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Alitech**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Telegraf js**
 
 - 💬 Ask me about **Frontend & Backend development**
 
