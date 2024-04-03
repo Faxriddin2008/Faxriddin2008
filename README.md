@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Alitech**
 
-- 🌱 I’m currently learning **Telegraf js**
+- 🌱 I’m currently learning **Stripe.js integration**
 
-- 💬 Ask me about **Frontend & Backend development**
+- 💬 Ask me about **Backend development**
 
 - 📫 How to reach me **fabduvasiyev@gmail.com**
 
