@@ -5,12 +5,10 @@
 <p align="left"> <a href="https://twitter.com/abduvasiyevf" target="blank"><img src="https://img.shields.io/twitter/follow/abduvasiyevf?logo=twitter&style=for-the-badge" alt="abduvasiyevf" /></a> </p>
 
 - 🔭 I’m currently working on **Alitech**
-
-- 🌱 I’m currently learning **Stripe.js integration**
-
+  
 - 💬 Ask me about **Backend development**
 
-- 📫 How to reach me **fabduvasiyev@gmail.com**
+- 📫 How to reach me: **fabduvasiyev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
