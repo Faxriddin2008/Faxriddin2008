@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 2rem;
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        p {
-            color: #555;
-        }
-    </style>
-</head>
-<body>
+
     <div class="container">
         <h1>Hi, I'm Faxriddin Abduvasiyev 👋</h1>
         <h2>Backend Developer | Jizzakh, Uzbekistan</h2>
@@ -69,5 +39,3 @@
         
         <p>Thank you for visiting my profile!</p>
     </div>
-</body>
-</html>
