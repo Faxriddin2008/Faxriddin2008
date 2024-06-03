@@ -19,6 +19,7 @@ Here are the technologies and tools I'm proficient in:
 - **Programming Languages:** JavaScript
 - **Backend Frameworks:** Node.js, Nest.js, Express
 - **Databases:** MongoDB, PostgreSQL
+- **APIs:** Rest, GraphQL
 - **Frontend Technologies:** HTML, CSS, React
 
 ---
@@ -30,6 +31,7 @@ I specialize in backend development, focusing on creating robust, scalable serve
 - **JavaScript:** for both frontend and backend development
 - **Node.js, Express, Nest.js:** for building efficient and scalable server-side applications
 - **MongoDB, PostgreSQL:** for managing and interacting with databases
+- **REST, GraphQL:** for building and consuming APIs
 - **HTML, CSS, React:** for structuring and styling web pages
 
 I enjoy solving complex problems and continuously learning new technologies to improve my development skills.
