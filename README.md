@@ -1,24 +1,73 @@
-<h1 align="center">Hi 👋, I'm Faxriddin Abduvasiyev</h1>
-<h3 align="center">I'm a backend developer from Uzbekistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faxriddin2008&label=Profile%20views&color=0e75b6&style=flat" alt="faxriddin2008" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abduvasiyevf" target="blank"><img src="https://img.shields.io/twitter/follow/abduvasiyevf?logo=twitter&style=for-the-badge" alt="abduvasiyevf" /></a> </p>
-
-- 🔭 I’m currently working on **Alitech**
-  
-- 💬 Ask me about **Backend development**
-
-- 📫 How to reach me: **fabduvasiyev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abduvasiyevf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abduvasiyevf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faxriddin-abduvasiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faxriddin-abduvasiyev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  </p>
-
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2rem;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm Faxriddin Abduvasiyev 👋</h1>
+        <h2>Backend Developer | Jizzakh, Uzbekistan</h2>
+        <hr>
+        
+        <h2>About Me</h2>
+        <p>Hello! I'm a 15-year-old backend developer from Jizzakh, Uzbekistan. Currently, I'm working at Alitech Website Solutions, a local company where I'm honing my skills and contributing to various web development projects.</p>
+        <hr>
+        
+        <h2>Skills</h2>
+        <p>Here are the technologies and tools I'm proficient in:</p>
+        <ul>
+            <li><strong>Programming Languages:</strong> JavaScript</li>
+            <li><strong>Backend Frameworks:</strong> Node.js, Nest.js, Express</li>
+            <li><strong>Databases:</strong> MongoDB, PostgreSQL</li>
+            <li><strong>Frontend Technologies:</strong> HTML, CSS, React</li>
+        </ul>
+        <hr>
+        
+        <h2>What I Do</h2>
+        <p>I specialize in backend development, focusing on creating robust, scalable server-side applications. My primary tech stack includes:</p>
+        <ul>
+            <li><strong>JavaScript:</strong> for both frontend and backend development</li>
+            <li><strong>Node.js, Express, Nest.js:</strong> for building efficient and scalable server-side applications</li>
+            <li><strong>MongoDB, PostgreSQL:</strong> for managing and interacting with databases</li>
+            <li><strong>HTML, CSS, React:</strong> for structuring and styling web pages</li>
+        </ul>
+        <p>I enjoy solving complex problems and continuously learning new technologies to improve my development skills.</p>
+        <hr>
+        
+        
+        <h2>Contact Me</h2>
+        <p>I'm always open to new ideas, collaborations, and opportunities. Feel free to reach out to me if you have any questions or suggestions.</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:fabduvasiyev@gmail.com">fabduvasiyev@gmail.com</a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/faxriddin-abduvasiyev/">My LinkedIn Profile</a></li>
+        </ul>
+        
+        <p>Thank you for visiting my profile!</p>
+    </div>
+</body>
+</html>
