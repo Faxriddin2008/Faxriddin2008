@@ -1,6 +1,4 @@
-Here's a README file for your GitHub profile:
 
----
 
 # Hi, I'm Faxriddin Abduvasiyev 👋
 
@@ -44,7 +42,7 @@ I'm always open to new ideas, collaborations, and opportunities. Feel free to re
 
 - **Email:** fabduvasiyev@gmail.com 
 - **LinkedIn:** https://linkedin.com/in/faxriddin-abduvasiyev
-
+- **Telegram:** https://t.me/FaxriddinAbduvasiyev
 ---
 
 Thank you for visiting my profile!
